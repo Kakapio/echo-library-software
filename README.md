@@ -16,4 +16,3 @@ Info popups:
 ![Image2](https://i.imgur.com/jYIzxUk.png)
 ![Image3](https://i.imgur.com/p5uaFwy.png)
 ![Image4](https://i.imgur.com/ybRJ1PO.png)
-![Image4](https://i.imgur.com/ybRJ1PO.png) 
