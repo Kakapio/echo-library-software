@@ -1,5 +1,5 @@
 # echo-library-software
-Book and user management software for school libraries.
+Book and user management software for school libraries. Ranked 6th place at FBLA nationals.
 
 Main screen:
 ![Image0](https://i.imgur.com/BsbaG0T.png)
